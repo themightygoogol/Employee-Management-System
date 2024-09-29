@@ -1,0 +1,9 @@
+232323,Michael,Jordan,Male,Chicago,10.0,2132131.0
+223223,sid,skiddlesman,Skiddle,Twitch,17.0,12312.0
+123123,Daffy,Duck,Male,Loonie Tunes Studios,12.0,213123.0
+222222,Natalie,Portman,Female,uhhhhhh,12.0,123123.0
+170123,jidion,adams,male,Houston,12.0,2312312.0
+353535,Kevin,Durant,Male,Brooklyn,12.0,1.2312312E7
+111111,Rihanna,idk,Female,Los Angeles,12.0,1.2312312E7
+222,weq,wqe,wqe,qwe,12.0,123.0
+123123123,Moron aka Jeffery,Wang,Female,surrey,1000.0,0.1

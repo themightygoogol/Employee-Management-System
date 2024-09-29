@@ -1,0 +1,6 @@
+678231,Isaiah,Thomas,Male,Dallas,9.0,100000.0,4.0,20.0
+321123,down,below,roddie,rich,12.0,1231.0,1.0,12.0
+701716,Borest,Li,Male,Mississauga,12.0,12.0,20.0,30.0
+701717,Dorest,Li,Male,Toronto,12.0,123.0,1.0,52.0
+999,zzz,zzzzzz,zzzzz,zzzzzzzz,10.0,15.0,20.0,25.0
+701715,Forest,Li,Male,Mississauga,11.0,1.123213123123E12,12.0,13.0
